@@ -1,0 +1,26 @@
+.fundo{
+    background-color: rgb(8, 49, 106);
+}
+
+.caixa{
+    height: 10vh;
+    width: 100vh;
+    border-radius: 20px;
+    background-color: rgb(255, 245, 230);
+}
+
+.posicao{
+    display: flex;
+    justify-content: center;
+    margin-top: 25vh;
+}
+
+.posicao2{
+    display: flex;
+    
+}
+
+.botao{
+    border-radius: 20px;
+    background-color: rgb(255, 245, 230);
+}
